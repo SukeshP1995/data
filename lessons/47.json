@@ -1,0 +1,295 @@
+[
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "How Computers Calculate - the ALU", 
+        "videoURL": "http://iiitdev.msitprogram.net/videos/ct-how-computers-calculate-the-alu.mp4"
+      }
+    ], 
+    "activity_name": "Video on How Computers Calculate - the ALU", 
+    "id": 737, 
+    "module_id": 47
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "Registers and RAM", 
+        "videoURL": "http://iiitdev.msitprogram.net/videos/ct-registers-and-ram.mp4"
+      }
+    ], 
+    "activity_name": "Video on Registers and RAM", 
+    "id": 731, 
+    "module_id": 47
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "The Central Processing Unit (CPU)", 
+        "videoURL": "http://iiitdev.msitprogram.net/videos/ct-the-central-processing-unit-(cpu).mp4"
+      }
+    ], 
+    "activity_name": "Video on The Central Processing Unit (CPU)", 
+    "id": 735, 
+    "module_id": 47
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "Instructions & Programs", 
+        "videoURL": "http://iiitdev.msitprogram.net/videos/ct-instructions-&-programs.mp4"
+      }
+    ], 
+    "activity_name": "Video on Instructions & Programs", 
+    "id": 743, 
+    "module_id": 47
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "Advanced CPU Designs", 
+        "videoURL": "http://iiitdev.msitprogram.net/videos/ct-advanced-cpu-designs.mp4"
+      }
+    ], 
+    "activity_name": "Video on Advanced CPU Designs", 
+    "id": 749, 
+    "module_id": 47
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "answer": "1995 is not leap year", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input : 1995", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "1996 is leap year", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input : 1996", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "2000 is leap year", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input : 2000", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "1900 is not leap year", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input : 1900", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "2032 is leap year", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input : 2032", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }
+        ], 
+        "quizDescription": [
+          {
+            "text": "Trace the following code:"
+          }, 
+          {
+            "file": "http://iiitdev.msitprogram.net/content/CT/Practice%20Problems%20Set%20-%202/attachments/Pseudocode-1.txt"
+          }
+        ], 
+        "title": "Pseudocode-1"
+      }
+    ], 
+    "activity_name": "Assignment-1", 
+    "id": 741, 
+    "module_id": 47
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "answer": "10,5", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input : a = 5, b=10", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "3,2", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: a = 2, b=3", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "1,6", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input : a = 6, b=1", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "4,5", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input : a = 5, b=4", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "9,3", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input : a = 3, b=9", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }
+        ], 
+        "quizDescription": [
+          {
+            "text": "Trace the following code:"
+          }, 
+          {
+            "file": "http://iiitdev.msitprogram.net/content/CT/Practice%20Problems%20Set%20-%202/attachments/Pseudocode-2.txt"
+          }
+        ], 
+        "title": "Pseudocode-2"
+      }
+    ], 
+    "activity_name": "Assignment-2", 
+    "id": 739, 
+    "module_id": 47
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "answer": "15", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input : 12345", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "32", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: 92678", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "40", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input : 7676473", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "40", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input : 5834857", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "42", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input : 12431562378", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }
+        ], 
+        "quizDescription": [
+          {
+            "text": "Trace the following code:"
+          }, 
+          {
+            "file": "http://iiitdev.msitprogram.net/content/CT/Practice%20Problems%20Set%20-%202/attachments/Pseudocode-3.txt"
+          }
+        ], 
+        "title": "Pseudocode-3"
+      }
+    ], 
+    "activity_name": "Assignment-3", 
+    "id": 745, 
+    "module_id": 47
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "graded": true, 
+            "max_marks": 17, 
+            "questionText": "Find the given number is prime or not?Submit the <b>link of the document</b> below.", 
+            "questionType": "fillintheblank"
+          }, 
+          {
+            "graded": true, 
+            "max_marks": 3, 
+            "questionText": "Find the given number is prime or not?Submit the <b> executable LARP file</b> below", 
+            "questionType": "filesubmission"
+          }
+        ], 
+        "title": "Assignment-4"
+      }
+    ], 
+    "activity_name": "Assignment-4", 
+    "id": 733, 
+    "module_id": 47
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "graded": true, 
+            "max_marks": 17, 
+            "questionText": "Display even characters from the given string.Submit the <b>link of the document</b> below.", 
+            "questionType": "fillintheblank"
+          }, 
+          {
+            "graded": true, 
+            "max_marks": 3, 
+            "questionText": "Display even characters from the given string.Submit the <b> executable LARP file</b> below", 
+            "questionType": "filesubmission"
+          }
+        ], 
+        "title": "Assignment-5"
+      }
+    ], 
+    "activity_name": "Assignment-5", 
+    "id": 747, 
+    "module_id": 47
+  }
+]

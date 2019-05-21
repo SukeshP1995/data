@@ -1,0 +1,398 @@
+[
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "Alan Turing", 
+        "videoURL": "http://iiitdev.msitprogram.net/videos/ct-alan-turing.mp4"
+      }
+    ], 
+    "activity_name": "Video on Alan Turing", 
+    "id": 774, 
+    "module_id": 51
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "Software Engineering", 
+        "videoURL": "http://iiitdev.msitprogram.net/videos/ct-software-engineering.mp4"
+      }
+    ], 
+    "activity_name": "Video on Software Engineering", 
+    "id": 782, 
+    "module_id": 51
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "Integrated Circuits & Moore\u2019s Law", 
+        "videoURL": "http://iiitdev.msitprogram.net/videos/ct-integrated-circuits-&-moore\u2019s-law.mp4"
+      }
+    ], 
+    "activity_name": "Video on Integrated Circuits & Moores Law", 
+    "id": 772, 
+    "module_id": 51
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "Operating Systems", 
+        "videoURL": "http://iiitdev.msitprogram.net/videos/ct-operating-systems.mp4"
+      }
+    ], 
+    "activity_name": "Video on Operating Systems", 
+    "id": 788, 
+    "module_id": 51
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "Memory & Storage", 
+        "videoURL": "http://iiitdev.msitprogram.net/videos/ct-memory-&-storage.mp4"
+      }
+    ], 
+    "activity_name": "Video on Memory & Storage", 
+    "id": 776, 
+    "module_id": 51
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "answer": "Number found", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "n=5<br>1,2,3,4,5<br>s=3", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "Number not found", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "n=5<br>1,2,3,4,5<br>s=6", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "No elements in the array", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "n=0", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "Number found", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "n=3<br>1,1,1<br>s=1", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }
+        ], 
+        "quizDescription": [
+          {
+            "text": "Trace the following code:"
+          }, 
+          {
+            "file": "http://iiitdev.msitprogram.net/content/CT/Practice%20Problems%20Set%20-%204/attachments/Pseudocode-1.txt"
+          }
+        ], 
+        "title": "Pseudocode-1"
+      }
+    ], 
+    "activity_name": "Assignment-1", 
+    "id": 790, 
+    "module_id": 51
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "answer": "86400", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input:24,0,0", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "39660", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: 10,60,60", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "90000", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input:25,0,0", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "Invalid Input", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input:23,70,60", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "Invalid Input", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input:23,60,70", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }
+        ], 
+        "quizDescription": [
+          {
+            "text": "Trace the following code:"
+          }, 
+          {
+            "file": "http://iiitdev.msitprogram.net/content/CT/Practice%20Problems%20Set%20-%204/attachments/Pseudocode-2.txt"
+          }
+        ], 
+        "title": "Pseudocode-2"
+      }
+    ], 
+    "activity_name": "Assignment-2", 
+    "id": 786, 
+    "module_id": 51
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "answer": "1", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input 2,0", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "32", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input 2,5", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "0.5", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input 2,-1", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "1", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input 1,1000", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "1", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input 0,0", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "0", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input 0,5", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }
+        ], 
+        "quizDescription": [
+          {
+            "text": "Trace the following code:"
+          }, 
+          {
+            "file": "http://iiitdev.msitprogram.net/content/CT/Practice%20Problems%20Set%20-%204/attachments/Pseudocode-3.txt"
+          }
+        ], 
+        "title": "Pseudocode-3"
+      }
+    ], 
+    "activity_name": "Assignment-3", 
+    "id": 792, 
+    "module_id": 51
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "answer": "60", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": " Input :16, 17, 18", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "60", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input :10,30,15", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "30", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input :10,9,9", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "30", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: 10,10,10", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "10", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: 6,4,4", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }
+        ], 
+        "quizDescription": [
+          {
+            "text": "Trace the following code:"
+          }, 
+          {
+            "file": "http://iiitdev.msitprogram.net/content/CT/Practice%20Problems%20Set%20-%204/attachments/Pseudocode-4.txt"
+          }
+        ], 
+        "title": "Pseudocode-4"
+      }
+    ], 
+    "activity_name": "Assignment-4", 
+    "id": 784, 
+    "module_id": 51
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "graded": true, 
+            "max_marks": 17, 
+            "questionText": "Find factorial of a given number?Submit the <b>link of the document</b> below.", 
+            "questionType": "fillintheblank"
+          }, 
+          {
+            "graded": true, 
+            "max_marks": 3, 
+            "questionText": "Find factorial of a given number?Submit the <b> executable LARP file</b> below", 
+            "questionType": "filesubmission"
+          }
+        ], 
+        "title": "Assignment-5"
+      }
+    ], 
+    "activity_name": "Assignment-5", 
+    "id": 794, 
+    "module_id": 51
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "graded": true, 
+            "max_marks": 17, 
+            "questionText": "Strong Password : Given a string S1, print \"1\" if it is a strong password or else print \"0\".  The password is strong if it satisfies the following criteria:<br>Its length is at least 6 <br>It contains at least one digit.<br>It contains at least one lowercase English character.<br>It contains at least one uppercase English character.<br>It contains at least one special character. The special characters are: !@#$%^&*()-+.", 
+            "questionType": "filesubmission"
+          }, 
+          {
+            "graded": true, 
+            "max_marks": 3, 
+            "questionText": "Strong Password : Given a string S1, print \"1\"if it is a strong password or else print \"0\".  The password is strong if it satisfies the following criteria:<br>Its length is at least 6 <br>It contains at least one digit.<br>It contains at least one lowercase English character.<br>It contains at least one uppercase English character.<br>It contains at least one special character. The special characters are: !@#$%^&*()-+.", 
+            "questionType": "fillintheblank"
+          }
+        ], 
+        "title": "Assignment-6"
+      }
+    ], 
+    "activity_name": "Assignment-6", 
+    "id": 778, 
+    "module_id": 51
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "questionText": "Find a given credit card number is valid or not? Following are conditions.<br>a. Credit Card Number should not start with 0.<br>b. Credit Card Number should contain 16 digits.Submit the <b>link of the document</b> below.", 
+            "questionType": "fillintheblank"
+          }, 
+          {
+            "questionText": "Find a given credit card number is valid or not? Following are conditions.<br>a. Credit Card Number should not start with 0.<br>b. Credit Card Number should contain 16 digits.Submit the <b> executable LARP file</b> below", 
+            "questionType": "filesubmission"
+          }
+        ], 
+        "title": "Bonus Assignment-1"
+      }
+    ], 
+    "activity_name": "Bonus Assignment-1", 
+    "id": 780, 
+    "module_id": 51
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "questionText": "Print the following series based on the value of N For Example: If N is 4 <br>1 <br>2 3 <br>3 4 5 <br>4 5 6 7 . Submit the <b>link of the document</b> below.", 
+            "questionType": "fillintheblank"
+          }, 
+          {
+            "questionText": "Print the following series based on the value of N For Example: If N is 4 <br>1 <br>2 3 <br>3 4 5 <br>4 5 6 7 .Submit the <b> executable LARP file</b> below", 
+            "questionType": "filesubmission"
+          }
+        ], 
+        "title": "Bonus Assignment-2"
+      }
+    ], 
+    "activity_name": "Bonus Assignment-2", 
+    "id": 796, 
+    "module_id": 51
+  }
+]

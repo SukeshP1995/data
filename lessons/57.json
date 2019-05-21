@@ -1,0 +1,541 @@
+[
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "The World Wide Web", 
+        "videoURL": "http://iiitdev.msitprogram.net/videos/ct-the-world-wide-web.mp4"
+      }
+    ], 
+    "activity_name": "Video on The World Wide Web", 
+    "id": 862, 
+    "module_id": 57
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "Cybersecurity", 
+        "videoURL": "http://iiitdev.msitprogram.net/videos/ct-cybersecurity.mp4"
+      }
+    ], 
+    "activity_name": "Video on Cybersecurity", 
+    "id": 864, 
+    "module_id": 57
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "Hackers & Cyber Attacks", 
+        "videoURL": "http://iiitdev.msitprogram.net/videos/ct-hackers-&-cyber-attacks.mp4"
+      }
+    ], 
+    "activity_name": "Video on Hackers & Cyber Attacks", 
+    "id": 854, 
+    "module_id": 57
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "Cryptography", 
+        "videoURL": "http://iiitdev.msitprogram.net/videos/ct-cryptography.mp4"
+      }
+    ], 
+    "activity_name": "Video on Cryptography", 
+    "id": 852, 
+    "module_id": 57
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "Machine Learning & Artificial Intelligence", 
+        "videoURL": "ct-machine-learning-&-artificial-intelligence.mp4"
+      }
+    ], 
+    "activity_name": "Video on Machine Learning & Artificial Intelligence", 
+    "id": 870, 
+    "module_id": 57
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "answer": "TThhee", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: The", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "AAAAbbbb", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: AAbb", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "HHii--TThheerree", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Hi-There", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "SSppiiddeeyy", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Spidey", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "$$", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "$", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }
+        ], 
+        "quizDescription": [
+          {
+            "text": "Trace the following pseudocode:"
+          }, 
+          {
+            "file": "http://iiitdev.msitprogram.net/content/CT/Practice%20Problems%20Set%20-%207/attachments/Pseudocode-1.txt"
+          }
+        ], 
+        "title": "Pseudocode-1"
+      }
+    ], 
+    "activity_name": "Assignment-1", 
+    "id": 868, 
+    "module_id": 57
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "answer": "True", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "HiAbc, abc", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "False", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Lexus, Nexus", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "True", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Batman, Man", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "True", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "hi, hI", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "False", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Winner, win", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }
+        ], 
+        "quizDescription": [
+          {
+            "text": "Trace the following pseudocode:"
+          }, 
+          {
+            "file": "http://iiitdev.msitprogram.net/content/CT/Practice%20Problems%20Set%20-%207/attachments/Pseudocode-2.txt"
+          }
+        ], 
+        "title": "Pseudocode-2"
+      }
+    ], 
+    "activity_name": "Assignment-2", 
+    "id": 866, 
+    "module_id": 57
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "answer": "5", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: [1, 2, 2]", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "5", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: [1, 2, 2, 6, 99, 99, 7]", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "5", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: [5]", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "98", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: [6, 1001, 1001, 7, 98]", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "7", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: [6, 123, 321, 7, 7]", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }
+        ], 
+        "quizDescription": [
+          {
+            "text": "Trace the following pseudocode:"
+          }, 
+          {
+            "file": "http://iiitdev.msitprogram.net/content/CT/Practice%20Problems%20Set%20-%207/attachments/Pseudocode-3.txt"
+          }
+        ], 
+        "title": "Pseudocode-3"
+      }
+    ], 
+    "activity_name": "Assignment-3", 
+    "id": 874, 
+    "module_id": 57
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "answer": "5", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: [1, 2, 2, 13]", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "5", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: [1, 2, 2]", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "101", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: [13, 1, 101]", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "6", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: [1, 2, 3, 13, 99, 100]", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "3", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: [1, 2, 13, 1000]", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }
+        ], 
+        "quizDescription": [
+          {
+            "text": "Trace the following pseudocode:"
+          }, 
+          {
+            "file": "http://iiitdev.msitprogram.net/content/CT/Practice%20Problems%20Set%20-%207/attachments/Pseudocode-4.txt"
+          }
+        ], 
+        "title": "Pseudocode-4"
+      }
+    ], 
+    "activity_name": "Assignment-4", 
+    "id": 860, 
+    "module_id": 57
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "answer": "0", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: 0", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "1", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: 1", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "8", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: 1000", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "3", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: 11", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "21", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: 10101", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }
+        ], 
+        "quizDescription": [
+          {
+            "text": "Trace the following pseudocode:"
+          }, 
+          {
+            "file": "http://iiitdev.msitprogram.net/content/CT/Practice%20Problems%20Set%20-%207/attachments/Pseudocode-5.txt"
+          }
+        ], 
+        "title": "Pseudocode-5"
+      }
+    ], 
+    "activity_name": "Assignment-5", 
+    "id": 876, 
+    "module_id": 57
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "answer": "1060", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: 100", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "0", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: 1", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "76127", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: 1000", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "328", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: 50", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "21037", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: 500", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }
+        ], 
+        "quizDescription": [
+          {
+            "text": "Trace the following pseudocode:"
+          }, 
+          {
+            "file": "http://iiitdev.msitprogram.net/content/CT/Practice%20Problems%20Set%20-%207/attachments/Pseudocode-6.txt"
+          }
+        ], 
+        "title": "Pseudocode-6"
+      }
+    ], 
+    "activity_name": "Assignment-6", 
+    "id": 856, 
+    "module_id": 57
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "graded": true, 
+            "max_marks": 17, 
+            "questionText": "Check whether the given number is Armstrong or not?Submit the <b>link of the document</b> below.", 
+            "questionType": "fillintheblank"
+          }, 
+          {
+            "graded": true, 
+            "max_marks": 3, 
+            "questionText": "Check whether the given number is Armstrong or not?Submit the <b> executable LARP file</b> below", 
+            "questionType": "filesubmission"
+          }
+        ], 
+        "title": "Assignment-7"
+      }
+    ], 
+    "activity_name": "Assignment-7", 
+    "id": 878, 
+    "module_id": 57
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "graded": true, 
+            "max_marks": 17, 
+            "questionText": "Check if the Substring is present in the given string : Given two strings S1(string) and S2(substring), print \"True\" if substring(S2) is present in string(S1). If substring(S2) is not present in string(S1) then print \"False\".Submit the <b>link of the document</b> below.", 
+            "questionType": "fillintheblank"
+          }, 
+          {
+            "graded": true, 
+            "max_marks": 3, 
+            "questionText": "Check if the Substring is present in the given string : Given two strings S1(string) and S2(substring), print \"True\" if substring(S2) is present in string(S1). If substring(S2) is not present in string(S1) then print \"False\".Submit the <b> executable LARP file</b> below", 
+            "questionType": "filesubmission"
+          }
+        ], 
+        "title": "Assignment-8"
+      }
+    ], 
+    "activity_name": "Assignment-8", 
+    "id": 850, 
+    "module_id": 57
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "questionText": "Find the nearest tidy number below n. Tidy number means all the digits in the number must be in increasing order.Submit the <b>link of the document</b> below.", 
+            "questionType": "fillintheblank"
+          }, 
+          {
+            "questionText": "Find the nearest tidy number below n. Tidy number means all the digits in the number must be in increasing order.Submit the <b> executable LARP file</b> below.", 
+            "questionType": "filesubmission"
+          }
+        ], 
+        "title": "Bonus Assignment-1"
+      }
+    ], 
+    "activity_name": "Bonus Assignment-1", 
+    "id": 858, 
+    "module_id": 57
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "questionText": "Convert a given number to roman number.Submit the <b>link of the document</b> below.", 
+            "questionType": "fillintheblank"
+          }, 
+          {
+            "questionText": "Convert a given number to roman number.Submit the <b> executable LARP file</b> below.", 
+            "questionType": "filesubmission"
+          }
+        ], 
+        "title": "Bonus Assignment-2"
+      }
+    ], 
+    "activity_name": "Bonus Assignment-2", 
+    "id": 880, 
+    "module_id": 57
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "questionText": "Given a number, print the number in words.Submit the <b>link of the document</b> below.", 
+            "questionType": "fillintheblank"
+          }, 
+          {
+            "questionText": "Given a number, print the number in words.Submit the <b> executable LARP file</b> below.", 
+            "questionType": "filesubmission"
+          }
+        ], 
+        "title": "Bonus Assignment-3"
+      }
+    ], 
+    "activity_name": "Bonus Assignment-3", 
+    "id": 872, 
+    "module_id": 57
+  }
+]
