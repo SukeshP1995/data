@@ -742,27 +742,29 @@
     "module_id": 3
   },
   {
-    "activity_json": [
-      {
-        "activityType": "assignment", 
-        "questions": [{
-        "evaluate": true,
-        "max_marks": 10,
-        "questionText": [{
-            "text": "1.Collect the data lab handout from the mentors<br>2.Download the sample handout"
-          },
-          {
-           "attachment":"http://iiitdev.msitprogram.net/attachments/ics-3-6-zip-1.tar" 
-          },
-          {
-            "text":"3.Extract the zip file and then start reading the handout<br>4.Mentros will show you how to solve the puzzles given as part of the Data Lab"
-          }
-        ],
-        "questionType": "filesubmission"
-      }],
+    "activity_json": [{
+      "activityType": "notes",
+      "text": "1. Collect the data lab handout from the mentors.<br>2. Download the sample handout <a href=\"https://drive.google.com/file/d/1Whs892H4Ol7g-lGKzilbuoUUMYz_a7sa/view?usp=sharing\">here</a><br>3. Extract the zip file and then start reading the handout.<br>4. Mentros will show you how to solve the puzzles given as part of the Data Lab.",
       "title": "Data Lab - Code Camp"
     }],
     "activity_name": "Data Lab - Code Camp",
+    "module_id": 3
+  },
+  {
+    "activity_json": [{
+      "activityType": "assignment",
+      "questions": [{
+        "evaluate": true,
+        "max_marks": 10,
+        "questionText": [{
+          "text": "Write the summary of the group discussion and submit the Google doc link"
+        }],
+        "questionType": "filesubmission"
+      }
+    ],
+      "title": "Assignment-1"
+    }],
+    "activity_name": "Assignment-1",
     "module_id": 3
   }
 

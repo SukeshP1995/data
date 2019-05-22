@@ -176,7 +176,7 @@
             }
           ],
           "questionText": [{
-            "text": "Each case is labelled in switch by"
+            "text": "Each case is labelled in switch by (Check all that apply)"
           }],
           "questionType": "checkbox",
           "wrong_feedback": "Incorrect"
@@ -222,11 +222,11 @@
               "option": "One"
             },
             {
-              "correct": false,
+              "correct": true,
               "option": "Three"
             },
             {
-              "correct": true,
+              "correct": false,
               "option": "Default"
             },
             {
@@ -484,7 +484,7 @@
           "max_marks": "1",
           "options": [{
               "correct": true,
-              "option": "In while loop<br>After while loop"
+              "option": "In while loop After loop"
             },
             {
               "correct": false,
@@ -500,7 +500,7 @@
             }
           ],
           "questionText": [{
-              "text": "What is the output of the following code snippet?"
+              "text": "What will be the output of the following code snippet?"
             },
             {
               "image": {
@@ -573,7 +573,7 @@
             },
             {
               "correct": true,
-              "option": "Returns the index of the first character (which is not a whitespace character) that is appeared in the string. If not returns the length of the string."
+              "option": "Returns the index of the first character (which is not a whitespace character) that is appeared in the string."
             },
             {
               "correct": false,
@@ -663,6 +663,32 @@
               "option": "return"
             },
             {
+              "correct": true,
+              "option": "continue"
+            },
+            {
+              "correct": false,
+              "option": "break"
+            },
+            {
+              "correct": false,
+              "option": "label"
+            }
+          ],
+          "questionText": [{
+            "text": "Which keyword is used to skip current iteration?"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+         {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "return"
+            },
+            {
               "correct": false,
               "option": "continue"
             },
@@ -672,13 +698,13 @@
             },
             {
               "correct": false,
-              "option": "label"
+              "option": "exit()"
             }
           ],
           "questionText": [{
-            "text": "Which keyword is used to come out of a loop only for that iteration?"
+            "text": "Which keyword is used to come out of the loop?"
           }],
-          "questionType": "mcq",
+          "questionType": "checkbox",
           "wrong_feedback": "Incorrect"
         }
       ],
@@ -819,7 +845,7 @@
               "option": "10 : 20 10 : 20"
             },
             {
-              "correct": true,
+              "correct": false,
               "option": "20 : 10 10 : 20"
             },
             {
@@ -827,7 +853,7 @@
               "option": "20 : 10 20 : 10"
             },
             {
-              "correct": false,
+              "correct": true,
               "option": "10 : 20 20 : 10"
             }
           ],
@@ -875,12 +901,16 @@
               "option": "The function can returns double constants"
             },
             {
-              "correct": false,
+              "correct": true,
               "option": "The function can return characters"
             },
             {
               "correct": true,
               "option": "The function can return integer constants"
+            },
+            {
+              "correct": false,
+              "option": "The function cannot return  Integer variables"
             }
           ],
           "questionText": [{
@@ -1243,7 +1273,7 @@
             },
             {
               "correct": true,
-              "option": "These variables can only be accessed within the same file that they are declared and can’t be accessed anywhere in the program."
+              "option": "These variables can only be accessed within the same file that they are declared and can’t be accessed across multiple files ."
             }
           ],
           "questionText": [{
@@ -1658,7 +1688,11 @@
             },
             {
               "correct": false,
-              "option": "7"
+              "option": "11"
+            },
+            {
+              "correct": false,
+              "option": "12"
             }
           ],
           "questionText": [{
@@ -1810,5 +1844,21 @@
     }],
     "activity_name": "Assignment-2",
     "module_id": 5
-  }
+  },
+  {
+  "activity_json": [{
+    "activityType": "assignment",
+    "questions": [{
+      "evaluate": true,
+      "max_marks": 10,
+      "questionText": [{
+        "text": "Write the summary of the group discussion and submit the Google doc link"
+      }],
+      "questionType": "filesubmission"
+    }],
+    "title": "Assignment-3"
+  }],
+  "activity_name": "Assignment-3",
+  "module_id": 5
+}
 ]

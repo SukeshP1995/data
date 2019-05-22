@@ -450,8 +450,8 @@
             },
             {
               "image": {
-                "imageName": "ICS-5.PNG",
-                "imageSRC": "http://iiitdev.msitprogram.net/images/ICS-5.PNG"
+                "imageName": "ICS-5.png",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/ICS-5.png"
               }
             }
           ],
@@ -535,8 +535,8 @@
             },
             {
               "image": {
-                "imageName": "ICS-6.PNG",
-                "imageSRC": "http://iiitdev.msitprogram.net/images/ICS-6.PNG"
+                "imageName": "ICS-6.png",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/ICS-6.png"
               }
             }
           ],
@@ -568,8 +568,8 @@
             },
             {
               "image": {
-                "imageName": "ICS-7.PNG",
-                "imageSRC": "http://iiitdev.msitprogram.net/images/ICS-7.PNG"
+                "imageName": "ICS-7.png",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/ICS-7.png"
               }
             }
           ],
@@ -620,8 +620,8 @@
             },
             {
               "image": {
-                "imageName": "ICS-8.PNG",
-                "imageSRC": "http://iiitdev.msitprogram.net/images/ICS-8.PNG"
+                "imageName": "ICS-8.png",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/ICS-8.png"
               }
             }
           ],
@@ -653,8 +653,8 @@
             },
             {
               "image": {
-                "imageName": "ICS-9.PNG",
-                "imageSRC": "http://iiitdev.msitprogram.net/images/ICS-9.PNG"
+                "imageName": "ICS-9.png",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/ICS-9.png"
               }
             }
           ],
@@ -690,8 +690,8 @@
             },
             {
               "image": {
-                "imageName": "ICS-10.PNG",
-                "imageSRC": "http://iiitdev.msitprogram.net/images/ICS-10.PNG"
+                "imageName": "ICS-10.png",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/ICS-10.png"
               }
             }
           ],
@@ -829,7 +829,7 @@
             {
               "image": {
                 "imageName": "ICS-11",
-                "imageSRC": "http://iiitdev.msitprogram.net/images/ICS-11.PNG"
+                "imageSRC": "http://iiitdev.msitprogram.net/images/ICS-11.png"
               }
             }
           ],
@@ -920,8 +920,8 @@
             },
             {
               "image": {
-                "imageName": "ICS-12.PNG",
-                "imageSRC": "http://iiitdev.msitprogram.net/images/ICS-12.PNG"
+                "imageName": "ICS-12.png",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/ICS-12.png"
               }
             }
           ],
@@ -1005,8 +1005,8 @@
             },
             {
               "image": {
-                "imageName": "ICS-13.PNG",
-                "imageSRC": "http://iiitdev.msitprogram.net/images/ICS-13.PNG"
+                "imageName": "ICS-13.png",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/ICS-13.png"
               }
             }
           ],
@@ -1049,6 +1049,31 @@
       "title": "Assignment-2"
     }],
     "activity_name": "Assignment-2",
+    "module_id": 2
+  },
+  {
+    "activity_json": [{
+      "activityType": "assignment",
+      "questions": [{
+        "evaluate": true,
+        "max_marks": 10,
+        "questionText": [{
+          "text": "<b>Module - 1</b><br>Write the summary of the group discussion and submit the Google doc link"
+        }],
+        "questionType": "filesubmission"
+      },
+      {
+        "evaluate": true,
+        "max_marks": 10,
+        "questionText": [{
+          "text": "<b>Module - 2</b><br>Write the summary of the group discussion and submit the Google doc link"
+        }],
+        "questionType": "filesubmission"
+      }
+    ],
+      "title": "Assignment-3"
+    }],
+    "activity_name": "Assignment-3",
     "module_id": 2
   }
 

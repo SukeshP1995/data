@@ -10,7 +10,7 @@
   {
     "activity_json": [{
       "activityType": "quiz",
-      "evaluate" : false,
+      "evaluate": false,
       "questions": [{
           "correct_feedback": "Correct",
           "max_marks": "1",
@@ -372,10 +372,10 @@
     "activity_name": "Processes",
     "module_id": 6
   },
-   {
+  {
     "activity_json": [{
       "activityType": "quiz",
-      "evaluate" : false,
+      "evaluate": false,
       "questions": [{
           "correct_feedback": "Correct",
           "max_marks": "1",
@@ -726,6 +726,82 @@
   },
   {
     "activity_json": [{
+      "activityType": "notes",
+      "title": "CPU Scheduling",
+      "text": "Cover the following topics<br><br>1. CPU Scheduling<br>Refer to the slides from 3.1 to 3.28 and skim through the rest of the slides - from chapter - 03 Processes.<br><br>You can also read the textbook Chapter 6 - CPU Scheduling. Download the textbook from <a href=\"https://drive.google.com/file/d/1NmNrJgAENuvH2BdDdfihZPOhdbCcCzxS/view?usp=sharing\">here</a><br><br>Download the ppt from <a href=\"https://drive.google.com/file/d/1Jlbda5YdcOR1BU0GZRkz_1IHZ-P_pESb/view?usp=sharing\">here</a>"
+    }],
+    "activity_name": "CPU Scheduling",
+    "module_id": 6
+  },
+  {
+    "activity_json": [{
+      "activityType": "assignment",
+      "questions": [{
+        "evaluate": true,
+        "max_marks": 60,
+        "questionText": [{
+            "text": "1. Using the FCFS scheduling algorithm, What is the waiting time for P1, P2, P3 and average waiting time of the given processes and their burst times:"
+          },
+          {
+            "image": {
+              "imagename": "",
+              "imageSRC": "http://iiitdev.msitprogram.net/images/ics-62.png"
+            }
+          },
+          {
+            "text": "2. Using the FCFS scheduling algorithm, What is the waiting time for P1, P2, P3 and average waiting time, given processes and their burst times and their arrival times:"
+          },
+          {
+            "image": {
+              "imagename": "",
+              "imageSRC": "http://iiitdev.msitprogram.net/images/ics-63.png"
+            }
+          },
+          {
+            "text": "3. Using the non-preemptive SJF scheduling algorithm, What is the waiting time for P1, P2, P3 and average waiting time, given processes and their burst times and their arrival times:"
+          },
+          {
+            "image": {
+              "imagename": "",
+              "imageSRC": "http://iiitdev.msitprogram.net/images/ics-64.png"
+            }
+          },
+          {
+            "text": "4. Using the Preemptive SRTF scheduling algorithm, What is the waiting time, Completion time, Turn around time and average waiting time, given processes and their burst times and their arrival times:"
+          },
+          {
+            "image": {
+              "imagename": "",
+              "imageSRC": "http://iiitdev.msitprogram.net/images/ics-65.png"
+            }
+          },
+          {
+            "text": "5. Using the Priority scheduling algorithm, What is the waiting time and average waiting time, given processes and their burst times and their priorities:"
+          },
+          {
+            "image": {
+              "imagename": "",
+              "imageSRC": "http://iiitdev.msitprogram.net/images/ics-66.png"
+            }
+          },
+          {
+            "text": "6. Using the Round Robin algorithm, What is the waiting time and average waiting time, given processes and their burst times and time quantum of 4:"
+          },
+          {
+            "image": {
+              "imagename": "",
+              "imageSRC": "http://iiitdev.msitprogram.net/images/ics-67.png"
+            }
+          }
+        ],
+        "questionType": "filesubmission"
+      }],
+      "title": "Assignment-1"
+    }],
+    "activity_name": "Assignment-1",
+    "module_id": 6
+  }, {
+    "activity_json": [{
       "activityType": "video",
       "title": "Video on Bomb Lab - Machine Level Programming - Basics",
       "videoURL": "http://iiitdev.msitprogram.net/videos/ics-lecture-8.mp4",
@@ -738,7 +814,7 @@
   {
     "activity_json": [{
       "activityType": "quiz",
-      "evaluate" : false,
+      "evaluate": false,
       "questions": [{
           "correct_feedback": "Correct",
           "max_marks": "0",
@@ -921,7 +997,7 @@
           "questionType": "mcq",
           "wrong_feedback": "Incorrect"
         },
-                {
+        {
           "correct_feedback": "Correct",
           "max_marks": "0",
           "options": [{
@@ -975,9 +1051,8 @@
             }
           ],
           "questionText": [{
-              "text": "Based on the image in question number 8, what is the expression that will be assigned to t2."
-            }
-          ],
+            "text": "Based on the image in question number 8, what is the expression that will be assigned to t2."
+          }],
           "questionType": "mcq",
           "wrong_feedback": "Incorrect"
         },
@@ -1002,9 +1077,8 @@
             }
           ],
           "questionText": [{
-              "text": "Based on the image in question number 8, what is the expression that will be assigned to t3"
-            }
-          ],
+            "text": "Based on the image in question number 8, what is the expression that will be assigned to t3"
+          }],
           "questionType": "mcq",
           "wrong_feedback": "Incorrect"
         }
@@ -1028,9 +1102,8 @@
   {
     "activity_json": [{
       "activityType": "quiz",
-      "evaluate" : false,
-      "questions": [
-      	{
+      "evaluate": false,
+      "questions": [{
           "correct_feedback": "Correct",
           "max_marks": "0",
           "options": [{
@@ -1093,9 +1166,8 @@
             }
           ],
           "questionText": [{
-              "text": " What expression or value that goes into the return statement inside the if condition."
-            }
-          ],
+            "text": " What expression or value that goes into the return statement inside the if condition."
+          }],
           "questionType": "mcq",
           "wrong_feedback": "Incorrect"
         },
@@ -1120,13 +1192,12 @@
             }
           ],
           "questionText": [{
-              "text": "What expression that goes in unsigned nx = _______"
-            }
-          ],
+            "text": "What expression that goes in unsigned nx = _______"
+          }],
           "questionType": "mcq",
           "wrong_feedback": "Incorrect"
         },
-         {
+        {
           "correct_feedback": "Correct",
           "max_marks": "0",
           "options": [{
@@ -1147,13 +1218,12 @@
             }
           ],
           "questionText": [{
-              "text": "What is the expression that goes in int rv = _______-"
-            }
-          ],
+            "text": "What is the expression that goes in int rv = _______-"
+          }],
           "questionType": "mcq",
           "wrong_feedback": "Incorrect"
         },
-         {
+        {
           "correct_feedback": "Correct",
           "max_marks": "0",
           "options": [{
@@ -1174,13 +1244,12 @@
             }
           ],
           "questionText": [{
-              "text": "What does the rfun returns (the last statement in the rfun() function) _______"
-            }
-          ],
+            "text": "What does the rfun returns (the last statement in the rfun() function) _______"
+          }],
           "questionType": "mcq",
           "wrong_feedback": "Incorrect"
         }
-         ],
+      ],
       "title": "Quiz on Bomb Lab - Machine Level Programming - Control"
     }],
     "activity_name": "Quiz on Bomb Lab - Machine Level Programming - Control",
@@ -1194,6 +1263,22 @@
     }],
     "activity_name": "Bomb Lab - Diffuse Phase - 1",
     "module_id": 6
-  }
+  },
+  {
+  "activity_json": [{
+    "activityType": "assignment",
+    "questions": [{
+      "evaluate": true,
+      "max_marks": 10,
+      "questionText": [{
+        "text": "Write the summary of the group discussion and submit the Google doc link"
+      }],
+      "questionType": "filesubmission"
+    }],
+    "title": "Assignment-1"
+  }],
+  "activity_name": "Assignment-1",
+  "module_id": 6
+}
 
 ]

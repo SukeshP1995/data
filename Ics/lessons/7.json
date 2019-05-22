@@ -1,0 +1,1177 @@
+[{
+    "activity_json": [{
+      "activityType": "notes",
+      "title": "Pointers and Addresses",
+      "text": "Read the Chapter - 5 from the textbook The C Programming Language - Second Edition (Page Number: 93 - 95)"
+    }],
+    "activity_name": "Pointers and Addresses",
+    "module_id": 7
+  },
+  {
+    "activity_json": [{
+      "activityType": "quiz",
+      "evaluate": false,
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "!"
+            },
+            {
+              "correct": false,
+              "option": "~"
+            },
+            {
+              "correct": true,
+              "option": "&"
+            },
+            {
+              "correct": false,
+              "option": "$"
+            }
+          ],
+          "questionText": [{
+            "text": "What is the unary operator that gives the address of the variable?"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "int type variables"
+            },
+            {
+              "correct": false,
+              "option": "float type variables"
+            },
+            {
+              "correct": false,
+              "option": "char type variables"
+            },
+            {
+              "correct": false,
+              "option": "double type variables."
+            }
+          ],
+          "questionText": [{
+            "text": "An Integer pointer can hold addresses of (No type casting)"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "int"
+            },
+            {
+              "correct": false,
+              "option": "float"
+            },
+            {
+              "correct": false,
+              "option": "char"
+            },
+            {
+              "correct": true,
+              "option": "void"
+            }
+          ],
+          "questionText": [{
+            "text": "A pointer to _____ (type)  that is used to hold any type of pointer but can’t be dereferenced itself"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "The variable a is assigned the value 10 and the address of a is assigned to p."
+            },
+            {
+              "correct": false,
+              "option": "The variable a is assigned the address 10 and the address of a is assigned to p."
+            },
+            {
+              "correct": true,
+              "option": "The variable a is assigned the value 10 and if the a is occupying 4 bytes of memory space, then the first byte address is assigned to p."
+            },
+            {
+              "correct": false,
+              "option": "Compiler error"
+            }
+          ],
+          "questionText": [{
+              "text": "What does the following code snippet do? (Check all that apply)"
+            },
+            {
+              "image": {
+                "imagename": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/ics-39.png"
+              }
+            }
+          ],
+          "questionType": "checkbox",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "The address of variable a is assigned to pointer variable p and the address of p is assigned to q."
+            },
+            {
+              "correct": false,
+              "option": "There is a compiler error at line number 3."
+            },
+            {
+              "correct": false,
+              "option": "The address of variable a is assigned to p and q."
+            },
+            {
+              "correct": false,
+              "option": "The address of variable a is assigned to p and q is assigned the value of p."
+            }
+          ],
+          "questionText": [{
+              "text": "What does the following code snippet do for line numbers 2 and 3?"
+            },
+            {
+              "image": {
+                "imagename": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/ics-40.png"
+              }
+            }
+          ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "0x1A, 0x12, 10, 11"
+            },
+            {
+              "correct": false,
+              "option": "0x1A, 0x12, 10, 0x1E"
+            },
+            {
+              "correct": false,
+              "option": "0x12, 0x1A, 10, 0x16"
+            },
+            {
+              "correct": false,
+              "option": "0x1A, 0x12, 0x1A, 11"
+            }
+          ],
+          "questionText": [{
+              "text": "What is the output of the following code snippet?"
+            },
+            {
+              "image": {
+                "imagename": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/ics-41.png"
+              }
+            }
+          ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "10, 11, 11"
+            },
+            {
+              "correct": false,
+              "option": "11, 11, 11"
+            },
+            {
+              "correct": false,
+              "option": "10, 10, 11"
+            },
+            {
+              "correct": false,
+              "option": "Compiler error"
+            }
+          ],
+          "questionText": [{
+              "text": "What is the output of the following code snippet?"
+            },
+            {
+              "image": {
+                "imagename": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/ics-42.png"
+              }
+            }
+          ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "0x1A, 10, 0x12"
+            },
+            {
+              "correct": false,
+              "option": "0x12, 10, 0x1A"
+            },
+            {
+              "correct": true,
+              "option": "0x1A, 10, 0x1A"
+            },
+            {
+              "correct": false,
+              "option": "0x1A, 26, 0x1A"
+            },
+            {
+              "correct": false,
+              "option": "Compiler error"
+            }
+          ],
+          "questionText": [{
+              "text": "What is the output of the following code snippet?"
+            },
+            {
+              "image": {
+                "imagename": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/ics-43.png"
+              }
+            }
+          ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        }
+      ],
+      "title": "Quiz on Pointers and Addresses"
+    }],
+    "activity_name": "Quiz on Pointers and Addresses",
+    "module_id": 7
+  },
+  {
+    "activity_json": [{
+      "activityType": "notes",
+      "title": "Pointers and Functions Arguments",
+      "text": "Read the Chapter - 5 from the textbook The C Programming Language - Second Edition (Page Number: 93 - 95)"
+    }],
+    "activity_name": "Pointers and Functions Arguments",
+    "module_id": 7
+  },
+  {
+    "activity_json": [{
+      "activityType": "quiz",
+      "evaluate": false,
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "Array"
+            },
+            {
+              "correct": false,
+              "option": "Structure"
+            },
+            {
+              "correct": false,
+              "option": "Variable"
+            },
+            {
+              "correct": false,
+              "option": "Structure and Variable."
+            }
+          ],
+          "questionText": [{
+            "text": "Which of the following are passed to a function can never be sent by call by value?"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "Call by value"
+            },
+            {
+              "correct": false,
+              "option": "Call by Pointers"
+            },
+            {
+              "correct": true,
+              "option": "Call by address"
+            },
+            {
+              "correct": false,
+              "option": "None of the above."
+            }
+          ],
+          "questionText": [{
+            "text": "When address of a variable is passed to a function, then this is known as ______"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "30 20"
+            },
+            {
+              "correct": false,
+              "option": "20 30"
+            },
+            {
+              "correct": false,
+              "option": "30 30"
+            },
+            {
+              "correct": false,
+              "option": "20 20"
+            }
+          ],
+          "questionText": [{
+              "text": "What is the output of the following code snippet?"
+            },
+            {
+              "image": {
+                "imagename": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/ics-44.png"
+              }
+            }
+          ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "11 11 11"
+            },
+            {
+              "correct": true,
+              "option": "11 11 10"
+            },
+            {
+              "correct": false,
+              "option": "10 10 10"
+            },
+            {
+              "correct": false,
+              "option": "10 11 11"
+            }
+          ],
+          "questionText": [{
+              "text": "What is the output of the following code snippet?"
+            },
+            {
+              "image": {
+                "imagename": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/ics-45.png"
+              }
+            }
+          ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        }
+      ],
+      "title": "Quiz on Pointers and Functions Arguments"
+    }],
+    "activity_name": "Quiz on Pointers and Functions Arguments",
+    "module_id": 7
+  },
+  {
+    "activity_json": [{
+      "activityType": "notes",
+      "title": "Pointers and Arrays",
+      "text": "Read the Chapter - 5 from the textbook The C Programming Language - Second Edition (Page Number: 97 - 100)"
+    }],
+    "activity_name": "Pointers and Arrays",
+    "module_id": 7
+  },
+  {
+    "activity_json": [{
+      "activityType": "quiz",
+      "evaluate": false,
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "The starting address of a is pointed to p."
+            },
+            {
+              "correct": true,
+              "option": "The address of the first element is assigned to p."
+            },
+            {
+              "correct": false,
+              "option": "Compiler error"
+            },
+            {
+              "correct": false,
+              "option": "The first element is assigned to p."
+            }
+          ],
+          "questionText": [{
+              "text": "What does the following code snippet do? (Check all that apply)"
+            },
+            {
+              "image": {
+                "imagename": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/ics-46.png"
+              }
+            }
+          ],
+          "questionType": "checkbox",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "1"
+            },
+            {
+              "correct": false,
+              "option": "2"
+            },
+            {
+              "correct": true,
+              "option": "3"
+            },
+            {
+              "correct": false,
+              "option": "Compiler error"
+            }
+          ],
+          "questionText": [{
+              "text": "What does the following code snippet do? (Check all that apply)"
+            },
+            {
+              "image": {
+                "imagename": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/ics-47.png"
+              }
+            }
+          ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "Int *p = &a[2]"
+            },
+            {
+              "correct": false,
+              "option": "Int *p = &a[3]"
+            },
+            {
+              "correct": true,
+              "option": "Int *p = a + 2"
+            },
+            {
+              "correct": false,
+              "option": "Int *p = a + 3"
+            }
+          ],
+          "questionText": [{
+            "text": "Which of the following are true about assigning the array variable (a) second   index address to a pointer variable p. (Index starts with 0) (Check all that apply)"
+          }],
+          "questionType": "checkbox",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "fun(&a[2]);"
+            },
+            {
+              "correct": false,
+              "option": "fun(&a[3]);"
+            },
+            {
+              "correct": true,
+              "option": "int *p = &a[0]; fun(p+2);"
+            },
+            {
+              "correct": true,
+              "option": "Int *p = &a[5]; fun(p-3);"
+            }
+          ],
+          "questionText": [{
+            "text": "To pass the array from second index to till last, to the function fun() which of the following syntax is correct. (Check all that apply)"
+          }],
+          "questionType": "checkbox",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "Compiler error"
+            },
+            {
+              "correct": false,
+              "option": "1 2 3 4 5 6 7 8 9 0"
+            },
+            {
+              "correct": false,
+              "option": "1 2 3 4 5 and the remaining 5 are garbage values"
+            },
+            {
+              "correct": true,
+              "option": "1 2 3 4 5 0 0 0 0 0"
+            }
+          ],
+          "questionText": [{
+              "text": "What is the output of the following code snippet>"
+            },
+            {
+              "image": {
+                "imagename": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/ics-48.png"
+              }
+            }
+          ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        }
+      ],
+      "title": "Quiz on Pointers and Arrays"
+    }],
+    "activity_name": "Quiz on Pointers and Arrays",
+    "module_id": 7
+  },
+  {
+    "activity_json": [{
+      "activityType": "notes",
+      "title": "Address Arithmetic",
+      "text": "Read the Chapter - 5 from the textbook The C Programming Language - Second Edition (Page Number: 100 - 103)"
+    }],
+    "activity_name": "Address Arithmetic",
+    "module_id": 7
+  },
+  {
+    "activity_json": [{
+      "activityType": "quiz",
+      "evaluate": false,
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "p++ points to the next element in the array."
+            },
+            {
+              "correct": false,
+              "option": "p++ will increments the value by one that p is pointing to p."
+            },
+            {
+              "correct": true,
+              "option": "p++ will have the address of the next element in the array."
+            },
+            {
+              "correct": false,
+              "option": "p++ will give a compiler error."
+            }
+          ],
+          "questionText": [{
+            "text": "If p is a pointer to some element of an array, then p++ will result in (Check all that apply)"
+          }],
+          "questionType": "checkbox",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "It allocates the consecutive memory locations and the base address is returned from the function."
+            },
+            {
+              "correct": false,
+              "option": "It allocates the memory locations wherever the memory is free (like as Linked List) and the start address is returned from the function."
+            },
+            {
+              "correct": false,
+              "option": "It allocates the consecutive memory locations and the last address is returned from the function."
+            },
+            {
+              "correct": false,
+              "option": "None of the above."
+            }
+          ],
+          "questionText": [{
+            "text": "What does malloc do?"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "1"
+            },
+            {
+              "correct": false,
+              "option": "-1"
+            },
+            {
+              "correct": true,
+              "option": "0"
+            },
+            {
+              "correct": false,
+              "option": "-2"
+            }
+          ],
+          "questionText": [{
+            "text": "Pointers and Integers are not interchangeable The only integer that can be assigned to a pointer variable and the integer constant can be compared to a pointer is _____"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "It not legal to add, subtract, multiply or divide two pointers."
+            },
+            {
+              "correct": false,
+              "option": "The pointers can be compared to each other except if the pointer variable is assigned to the address of the array."
+            },
+            {
+              "correct": true,
+              "option": "Its legal to assign pointer of one type to another type with a cast in case of void *."
+            },
+            {
+              "correct": false,
+              "option": "If p is pointing to the first element of the array and p + n points to the last element of the array where n is the number of elements in the array."
+            }
+          ],
+          "questionText": [{
+            "text": "Which of the following are true about the pointers? (Check all that apply)"
+          }],
+          "questionType": "checkbox",
+          "wrong_feedback": "Incorrect"
+        }
+      ],
+      "title": "Quiz on Address Arithmetic"
+    }],
+    "activity_name": "Quiz on Address Arithmetic",
+    "module_id": 7
+  },
+  {
+    "activity_json": [{
+      "activityType": "notes",
+      "title": "Character Pointers and Function",
+      "text": "Read the Chapter - 5 from the textbook The C Programming Language - Second Edition (Page Number:104 - 107)"
+    }],
+    "activity_name": "Character Pointers and Function",
+    "module_id": 7
+  },
+  {
+    "activity_json": [{
+      "activityType": "quiz",
+      "evaluate": false,
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "It compares each and every character of s and t and returns from the function."
+            },
+            {
+              "correct": true,
+              "option": "It copies each character of t to s and nothing is returned from the function."
+            },
+            {
+              "correct": false,
+              "option": "It copies each character of s to t and nothing is returned from the function."
+            },
+            {
+              "correct": false,
+              "option": "It copies each character of s to t and the resultant string s is returned from the function"
+            },
+            {
+              "correct": true,
+              "option": "It simulates the strcpy library function from the string.h"
+            }
+          ],
+          "questionText": [{
+              "text": "What does the following code snippet do? (Check all that apply)"
+            },
+            {
+              "image": {
+                "imagename": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/ics-49.png"
+              }
+            }
+          ],
+          "questionType": "checkbox",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "It increments both the pointers and assigns the characters of t to s and then compared with \\0."
+            },
+            {
+              "correct": false,
+              "option": "It increments both the pointers and assigns the characters of t to s"
+            },
+            {
+              "correct": true,
+              "option": "It first assigns the characters of t to s and then increments the pointer by one (Moves to the next character) and check for \\0 character."
+            },
+            {
+              "correct": false,
+              "option": "It first checks for the \\0 character and then it assigns the character of t to s and increments the pointer by one. (moves to next character)"
+            }
+          ],
+          "questionText": [{
+              "text": "What does the while loop performs? (Check all that apply)"
+            },
+            {
+              "image": {
+                "imagename": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/ics-50.png"
+              }
+            }
+          ],
+          "questionType": "checkbox",
+          "wrong_feedback": "Incorrect"
+        }
+      ],
+      "title": "Quiz on Character Pointers and Function"
+    }],
+    "activity_name": "Quiz on Character Pointers and Function",
+    "module_id": 7
+  },
+  {
+    "activity_json": [{
+      "activityType": "notes",
+      "title": "Pointer Arrays and Pointers to Pointers",
+      "text": "Read the Chapter - 5 from the textbook The C Programming Language - Second Edition (Page Number:107 - 110)"
+    }],
+    "activity_name": "Pointer Arrays and Pointers to Pointers",
+    "module_id": 7
+  },
+  {
+    "activity_json": [{
+      "activityType": "quiz",
+      "evaluate": false,
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "Lineptr is an array of n char elements."
+            },
+            {
+              "correct": false,
+              "option": "Lineptr is an array of n elements, each element is a char to a pointer."
+            },
+            {
+              "correct": true,
+              "option": "Lineptr is an array of n elements, each element is a pointer to a char."
+            },
+            {
+              "correct": true,
+              "option": "Lineptr is an array of character pointers."
+            }
+          ],
+          "questionText": [{
+            "text": "What does the following code snippet do?<br><b>char *lineptr[n];</b>"
+          }],
+          "questionType": "checkbox",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "Quick sort"
+            },
+            {
+              "correct": false,
+              "option": "Radix sort"
+            },
+            {
+              "correct": false,
+              "option": "Selection sort"
+            },
+            {
+              "correct": false,
+              "option": "Insertion sort"
+            }
+          ],
+          "questionText": [{
+            "text": "Which sorting algorithm that has been demonstrated in this section."
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        }
+      ],
+      "title": "Quiz on Pointer Arrays and Pointers to Pointers"
+    }],
+    "activity_name": "Quiz on Pointer Arrays and Pointers to Pointers",
+    "module_id": 7
+  },
+  {
+    "activity_json": [{
+      "activityType": "notes",
+      "title": "Multi-dimensional Arrays",
+      "text": "Read the Chapter - 5 from the textbook The C Programming Language - Second Edition (Page Number:110 - 112)"
+    }],
+    "activity_name": "Multi-dimensional Arrays",
+    "module_id": 7
+  },
+  {
+    "activity_json": [{
+      "activityType": "quiz",
+      "evaluate": false,
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "a is a variable that holds 15 values of type int."
+            },
+            {
+              "correct": true,
+              "option": "a is a variable that can be viewed as 5 rows and 3 columns."
+            },
+            {
+              "correct": true,
+              "option": "a is a variable that has 5 lists and each list can be initialized to 3 elements."
+            },
+            {
+              "correct": false,
+              "option": "a is a variable that can be viewed as 5 columns and 3 rows."
+            }
+          ],
+          "questionText": [{
+            "text": "What does the following code do? (Check all that apply)<br>int a[5][3];"
+          }],
+          "questionType": "checkbox",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "There might be an array index out of bounds error."
+            },
+            {
+              "correct": true,
+              "option": "a[i][j] refers to 2nd row and 2nd element and assigns a value 10."
+            },
+            {
+              "correct": false,
+              "option": "a[i][j] refers to 1st row and 1st element and assigns a value 10."
+            },
+            {
+              "correct": false,
+              "option": "a[i][j] refers to 1st row and 2nd element and assigns a value 10."
+            }
+          ],
+          "questionText": [{
+            "text": "What does the following code do? <br><b>int a[5][3]; a[i][j] = 10; where i and j are 1 and 1 respectively. (Indices starts from 0)</b>"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        }
+      ],
+      "title": "Quiz on Multi-dimensional Arrays"
+    }],
+    "activity_name": "Quiz on Multi-dimensional Arrays",
+    "module_id": 7
+  },
+  {
+    "activity_json": [{
+      "activityType": "notes",
+      "title": "Initialization of Pointer arrays and Pointers vs Multi-Dimensional Arrays",
+      "text": "Read the Chapter - 5 from the textbook The C Programming Language - Second Edition (Page Number:113 to 114)"
+    }],
+    "activity_name": "Initialization of Pointer arrays and Pointers vs Multi-Dimensional Arrays",
+    "module_id": 7
+  },
+  {
+    "activity_json": [{
+      "activityType": "quiz",
+      "evaluate": false,
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "If n is in the range of 1 - 7, this function returns the week day"
+            },
+            {
+              "correct": true,
+              "option": "If n is not in the range of 1 - 7, it returns Illegal day"
+            },
+            {
+              "correct": true,
+              "option": "The function defines the days and returns the week day based on the value of n."
+            },
+            {
+              "correct": false,
+              "option": "The compiler throws an error message to the user at line number 3."
+            }
+          ],
+          "questionText": [{
+              "text": "What does the following code snippet do? (Check all that apply"
+            },
+            {
+              "image": {
+                "imagename": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/ics-51.png"
+              }
+            }
+          ],
+          "questionType": "checkbox",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "The b can have the different lengths of rows."
+            },
+            {
+              "correct": true,
+              "option": "The b can have the different number of columns."
+            },
+            {
+              "correct": false,
+              "option": "The b can have different lengths of rows and columns."
+            },
+            {
+              "correct": false,
+              "option": "The compiler throws an error message while declaring the b variable."
+            }
+          ],
+          "questionText": [{
+            "text": "What is the advantage of declaring int *b[10] over int a[10][20]. (Check all that apply)"
+          }],
+          "questionType": "checkbox",
+          "wrong_feedback": "Incorrect"
+        }
+      ],
+      "title": "Quiz on Initialization of Pointer arrays and Pointers vs Multi-Dimensional Arrays"
+    }],
+    "activity_name": "Quiz on Initialization of Pointer arrays and Pointers vs Multi-Dimensional Arrays",
+    "module_id": 7
+  },
+  {
+    "activity_json": [{
+      "activityType": "notes",
+      "title": "Command Line arguments",
+      "text": "Read the Chapter - 5 from the textbook The C Programming Language - Second Edition (Page Number:114 to 118)"
+    }],
+    "activity_name": "Command Line arguments",
+    "module_id": 7
+  },
+  {
+    "activity_json": [{
+      "activityType": "quiz",
+      "evaluate": false,
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "start(int argc, char *argv[])"
+            },
+            {
+              "correct": true,
+              "option": "main(int argc, char *argv[])"
+            },
+            {
+              "correct": false,
+              "option": "A program that contains an anonymous function with arguments named argc and argv[]."
+            },
+            {
+              "correct": false,
+              "option": "None of the above."
+            }
+          ],
+          "questionText": [{
+            "text": "The command line arguments are passed to which function in the program"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "The program name"
+            },
+            {
+              "correct": false,
+              "option": "The number of command line arguments"
+            },
+            {
+              "correct": false,
+              "option": "The first argument that is passed (excluding the program name)"
+            },
+            {
+              "correct": false,
+              "option": "Null character if none of the command line arguments are passed."
+            }
+          ],
+          "questionText": [{
+            "text": "The command line arguments, argv[0] contains"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "True"
+            },
+            {
+              "correct": true,
+              "option": "False"
+            }
+          ],
+          "questionText": [{
+            "text": "(T/F) The runtime throws an error message if the main function doesn’t have any arguments declared and while the user is passing command line arguments at runtime."
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        }
+      ],
+      "title": "Quiz on Command Line arguments"
+    }],
+    "activity_name": "Quiz on Command Line arguments",
+    "module_id": 7
+  },
+  {
+    "activity_json": [{
+      "activityType": "notes",
+      "title": "Pointers to functions",
+      "text": "Read the Chapter - 5 from the textbook The C Programming Language - Second Edition (Page Number:118 to 121)"
+    }],
+    "activity_name": "Pointers to functions",
+    "module_id": 7
+  },
+  {
+    "activity_json": [{
+      "activityType": "notes",
+      "title": "Complicated Declarations",
+      "text": "Read the Chapter - 5 from the textbook The C Programming Language - Second Edition (Page Number:122 to 126)"
+    }],
+    "activity_name": "Complicated Declarations",
+    "module_id": 7
+  },
+  {
+    "activity_json": [{
+      "activityType": "assignment",
+      "questions": [{
+        "evaluate": true,
+        "max_marks": 10,
+        "questionText": [{
+          "text": "Write the function strend (s ,t ), which returns 1 if the string t occurs at the end of the string s, and zero otherwise. Write the test cases and check your code against the test cases that you have defined."
+        }],
+        "questionType": "filesubmission"
+      }],
+      "title": "Assignment-1"
+    }],
+    "activity_name": "Assignment-1",
+    "module_id": 7
+  },
+  {
+    "activity_json": [{
+      "activityType": "assignment",
+      "questions": [{
+        "evaluate": true,
+        "max_marks": 10,
+        "questionText": [{
+          "text": "Write versions of the library functions strncpy, strncat, and strncmp; which operate on at most the first n characters of their argument strings. <br>strncpy (s, t, n) copies at most n characters of t to s.<br>strncat(s, t, n) appends at most n characters of t to s.<br>strncmp(s, t, n) compares at most n characters of s and t. Returns 0 if at most n characters are equal, 1 otherwise."
+        }],
+        "questionType": "filesubmission"
+      }],
+      "title": "Assignment-2"
+    }],
+    "activity_name": "Assignment-2",
+    "module_id": 7
+  },
+  {
+    "activity_json": [{
+      "activityType": "assignment",
+      "questions": [{
+        "evaluate": true,
+        "max_marks": 10,
+        "questionText": [{
+          "text": "Write the program tail, which prints the last n lines of its input. By default, n is 10, let us say, but it can be changed by an optional argument, so that tail -n that prints the last n lines of the input."
+        }],
+        "questionType": "filesubmission"
+      }],
+      "title": "Assignment-3"
+    }],
+    "activity_name": "Assignment-3",
+    "module_id": 7
+  },
+  {
+  "activity_json": [{
+    "activityType": "assignment",
+    "questions": [{
+      "evaluate": true,
+      "max_marks": 10,
+      "questionText": [{
+        "text": "Write the summary of the group discussion and submit the Google doc link"
+      }],
+      "questionType": "filesubmission"
+    }],
+    "title": "Assignment-4"
+  }],
+  "activity_name": "Assignment-4",
+  "module_id": 7
+}
+]
