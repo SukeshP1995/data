@@ -299,59 +299,5 @@
     "desc": "<b>Module Overview:</b><br>To this point in our study of exceptional control flow, we have seen how hardware and software cooperate to provide the fundamental low-level exception mechanism. We have also seen how the operating system uses exceptions to support a form of exceptional control flow known as the process context switch. In this section, we will study a higher-level software form of exceptional control flow, known as a Unix signal, that allows processes and the kernel to interrupt other processes.<br><br><b>Learning Objectives:</b><ol><li>Understand the linux process hierarchy.</li><li>Implement your own simple shell by walking through the handout.</li><li>Identify the problems with the simple shell</li><li>Implement eval function to drive the execution of your simple shell</li><li>Implement various functions such as builtin_cmd based on the instructions in the handout given</li></ol>",
     "id": 15,
     "name": "Exceptional Control Flow: Signals"
-  },
-  {
-    "activities": [],
-    "desc": null,
-    "id": 16,
-    "name": "Shell Lab - Code Part 1"
-  },
-  {
-    "activities": [],
-    "desc": null,
-    "id": 17,
-    "nmae": "Exceptional Control Flow: Signals"
-  },
-  {
-    "activities": [],
-    "desc": null,
-    "id": 18,
-    "name": "Attack Lab Phase - 1,, Diffusion of bomb lab fourth and fifth phases and OS Concepts (Synchronization and Deadlocks)"
-  },
-  {
-    "activities": [],
-    "desc": null,
-    "id": 19,
-    "name": "Shell Lab - Code Part 2"
-  },
-  {
-    "activities": [],
-    "desc": null,
-    "id": 20,
-    "name": "Shell Lab - Code Part 3"
-  },
-  {
-    "activities": [],
-    "desc": null,
-    "id": 21,
-    "name": "Shell Lab - Code Part 4"
-  },
-  {
-    "activities": [],
-    "desc": null,
-    "id": 22,
-    "name": "Shell Lab - Code Part 5"
-  },
-  {
-    "activities": [],
-    "desc": null,
-    "id": 23,
-    "name": "Shell Lab - Code Part 6"
-  },
-  {
-    "activities": [],
-    "desc": null,
-    "id": 24,
-    "name": "OS Concepts (Memory management and VIrtual memory management) Attack Lab: Phase 2 and Phase 3"
   }
 ]
