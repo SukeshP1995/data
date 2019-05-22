@@ -1,5 +1,5 @@
 [
-{
+  {
     "activity_json": [{
       "activityType": "video",
       "title": "Video on Exceptional Control Flow - Processes(Part - 1)",
@@ -407,7 +407,7 @@
       ],
           "questionType": "mcq",
           "wrong_feedback": "Incorrect"
-        }
+        },
         {
           "correct_feedback": "Correct",
           "max_marks": "1",
