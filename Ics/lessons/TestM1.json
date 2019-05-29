@@ -1,0 +1,151 @@
+[
+  {
+    "activity_name": "Bindings",
+    "activity_id" : "A1",
+    "activity_json": [{
+      "videoResources": "/1) Bindings.zip",
+      "activityType": "video",
+      "videoURL": "http://courseware.msitprogram.net/play/content/cspp1/videos//1)%20Bindings.mp4",
+      "title": "In this activity you will learn about bindings by watching a video"
+    }]
+  },
+  {
+    "activity_name": "Bindings and Strings-1 notes",
+    "activity_id" : "A2",
+    "activity_json": [{
+      "activityType": "notes",
+      "title": "Bindings and Strings-1 notes",
+      "text": "In Last two activities we learnt strings and bindings, In this excercise you have problems on Bindings and Strings. For each of the following expressions, indicate the value returned, or if the evaluation would lead to an error, write the word 'error' (note this is a word, not a string, no quotes). While you could simply type these expressions into your IDE, we encourage you to answer them directly since this will help reinforce your understanding of basic Python expressions. <a href=\"http://iiitdev.msitprogram.net/images/bsit-1.PNG\">click here"
+    }]
+  },
+  {
+    "activity_name": "Bindings and Strings-1",
+    "activity_id" : "A3",
+    "activity_json": [{
+      "quizDescription": [{
+          "text": "For each of the following expressions, indicate the value returned, or if the evaluation would lead to an error, write the word 'error' (note this is a word, not a string, no quotes). While you could simply type these expressions into your IDE, we encourage you to answer them directly since this will help reinforce your understanding of basic Python expressions."
+        },
+        {
+          "file": "advancedstringslicing.txt"
+        }
+      ],
+      "activityType": "quiz",
+      "questions": [
+        {
+          "questionType": "checkbox",
+          "question_id" : "Q1",
+          "questionText": [{
+            "text": "<code>\"a\" + \"bc\"</code>"
+          }],
+          "correct_feedback": "Correct",
+          "max_marks": 1,
+          "wrong_feedback": "Incorrect",
+          "options": [{
+              "correct": true,
+              "option": "abc"
+            },
+            {
+              "correct": false,
+              "option": "bca"
+            },
+            {
+              "correct": false,
+              "option": "bac"
+            },
+            {
+              "correct": false,
+              "option": "cab"
+            }
+          ]
+        },
+        {
+          "questionType": "checkbox",
+          "question_id" : "Q2",
+          "questionText": [{
+            "text": "<code>3 * \"bc\"</code>"
+          }],
+          "correct_feedback": "Correct",
+          "max_marks": 1,
+          "wrong_feedback": "Incorrect",
+          "options": [{
+              "correct": false,
+              "option": "3bc"
+            },
+            {
+              "correct": false,
+              "option": "bc3"
+            },
+            {
+              "correct": true,
+              "option": "bcbcbc"
+            },
+            {
+              "correct": false,
+              "option": "error"
+            }
+          ]
+        },
+        {
+          "questionType": "checkbox",
+          "question_id" : "Q3",
+          "questionText": [{
+            "text": "<code>\"3\" * \"bc\"</code>"
+          }],
+          "correct_feedback": "Correct",
+          "max_marks": 1,
+          "wrong_feedback": "Incorrect",
+          "options": [{
+              "correct": false,
+              "option": "3bc"
+            },
+            {
+              "correct": false,
+              "option": "bc3"
+            },
+            {
+              "correct": false,
+              "option": "bcbcbc"
+            },
+            {
+              "correct": true,
+              "option": "error"
+            }
+          ]
+        }
+      ],
+      "title": "In Last two activities we learnt strings and bindings, In this excercise you have problems on Bindings and Strings"
+    }]
+  },
+  {
+    "activity_name": "for-1 problems",
+    "activity_id" : "A4",
+    "activity_json": [{
+      "activityType": "assignment",
+      "questions": [
+      {
+        "graded": true,
+        "question_id" : "Q4",
+        "max_marks": 5,
+        "questionText": [{
+            "text": "In this problem you'll be given a chance to practice writing some for loops.<br><br>Convert the following into code that uses a for loop.<br><br>print Hello!<br>print 10<br>print 8<br>print 6<br>print 4<br>print 2"
+          }
+
+        ],
+        "questionType": "File submission"
+      },
+      {
+        "graded": true,
+        "question_id" : "Q5",
+        "max_marks": 5,
+        "questionText": [{
+            "text": "Write a for loop that sums the values 1 through end, inclusive. end is a variable that we define for you. So, for example, if we define end to be 6, your code should print out the result:<br><br>21<br><br>which is 1 + 2 + 3 + 4 + 5 + 6.<br><br>For problems such as these, do not include input statements or define variables we will provide for you. Our automating testing will provide values so write your code in the following box assuming these variables are already defined."
+          }
+
+        ],
+        "questionType": "File submission"
+      }
+    ],
+      "title": "Assignment-2"
+    }]
+  }
+]
